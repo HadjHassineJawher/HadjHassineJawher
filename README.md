@@ -11,6 +11,6 @@ I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, in 2022 
 - 🎯 Life Hack : Explore 🔥 and Explode 💣 with knowledge.
 
 ## Languages and Tools
-<img align="left" alt="HTML 5" width="26px" hight="35"  src="https://i.pinimg.com/564x/e3/b8/10/e3b810bb6bf005c04b256c6cbcca3efb.jpg">
-<img align="left" alt="CSS 3" width="26px" hight="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img align="left" alt="JavaScript" width="26px" hight="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png">
+<img align="left" alt="HTML 5" width="26px" hight="35px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-800px-HTML5_logo_and_wordmark.svg.png">
+<img align="left" alt="CSS 3" width="26px" hight="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png">
+<img align="left" alt="JavaScript" width="26px" hight="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
