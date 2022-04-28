@@ -8,10 +8,9 @@ I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, in 2022 
 - 📫 Reach me through my Email : hadjhassinejawher3@gmail.com
 - 💬 If you have any questions just feel free.
 - ⚡️ Fun fact : My first line of code was not "Hello World !"
+- 🎯 Life Hack : Explore 🔥 and Explode 💣 with knowledge.
 
 ## Languages and Tools
-<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-800px-HTML5_logo_and_wordmark.svg.png">
-
-<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png">
-
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
+<img align="left" alt="HTML 5" width="26px" hight="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img align="left" alt="CSS 3" width="26px" hight="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+<img align="left" alt="JavaScript" width="26px" hight="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
