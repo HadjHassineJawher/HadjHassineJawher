@@ -9,4 +9,4 @@ I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, in 2022 
 - 💓 I Love science and innovation.
 - 📫 Reach me through my Email : hadjhassinejawher3@gmail.com
 - 💬 If you have any questions just feel free.
-- ⚡️ Fun fact : I'm a huge fan of Game of Thrones.
+- ⚡️ Fun fact : My first line of code was not "Hello World!"
