@@ -5,7 +5,7 @@ I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, I fell i
 - 🔭 I’m a Master Degree student.
 - 🌱 I’m currently learning Mobile development.
 - 💓 I Love science and innovation.
-- 📫 How to reach me : hadjhassinejawher3@gmail.com
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ Fun fact : My first line of code was not "Hello World !".
 - 🎯 Life Hack : Explore 🔥 and Explode 💣 with knowledge.
+- 📫 How to reach me : hadjhassinejawher3@gmail.com
