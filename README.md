@@ -1,6 +1,6 @@
 ## < Hello World, I'm Jawher 👋 />
 
-I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, I fell in love with Angular, React, React Native and so many other modern frameworks.
+I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, In love with Angular, React, React Native and so many other modern frameworks.
 
 - 🔭 I’m a Master Degree student.
 - 🌱 I’m currently learning Mobile development.
