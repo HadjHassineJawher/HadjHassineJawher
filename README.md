@@ -9,3 +9,5 @@ I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, In love 
 - ⚡️ Fun fact : My first line of code was not "Hello World !".
 - 🎯 Life Hack : Explore 🔥 and Explode 💣 with knowledge.
 - 📫 How to reach me : hadjhassinejawher3@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HadjHassineJawher=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
