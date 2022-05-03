@@ -10,4 +10,4 @@ I'm a Web & Mobile developer from Tunisia, I mainly code in JavaScript, In love 
 - 🎯 Life Hack : Explore 🔥 and Explode 💣 with knowledge.
 - 📫 How to reach me : hadjhassinejawher3@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HadjHassineJawher=HadjHassineJawher)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadjHassineJawher)](https://github.com/anuraghazra/github-readme-stats)
